@@ -1,0 +1,29 @@
+{
+    "interviews": {
+      "HR": [
+        "Can you tell us about yourself?",
+        "Why do you want to work in AI engineering?",
+        "What do you know about our company and its use of AI?",
+        "What are your strengths that make you a good fit for this role?",
+        "What is a challenging project you've worked on, and how did you handle it?",
+        "How do you stay updated with the latest developments in AI?",
+        "What are your career goals as an AI engineer?",
+        "How do you handle feedback and criticism?",
+        "How do you manage your time and prioritize tasks?",
+        "Do you have any questions for us?"
+      ],
+      "User": [
+        "Can you describe your academic or project experience in AI or machine learning?",
+        "Which programming languages and tools are you most comfortable with for AI development?",
+        "How do you approach learning new concepts or tools in AI?",
+        "Can you walk us through a project where you built or fine-tuned a machine learning model?",
+        "How do you ensure that the datasets you use are clean, relevant, and unbiased?",
+        "AI projects often require teamwork and collaboration. Can you give an example of a collaborative project you’ve worked on?",
+        "AI and machine learning require constant research. How do you stay updated with the latest trends and technologies?",
+        "What are your thoughts on the ethical considerations of deploying AI systems?",
+        "How do you approach debugging and improving the performance of a machine learning model?",
+        "What motivates you to pursue a career in AI engineering, and where do you see yourself in the next 2-3 years?"
+      ]
+    }
+  }
+  

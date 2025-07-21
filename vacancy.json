@@ -1,0 +1,22 @@
+{
+  "job_title": "Junior AI Engineer",
+  "minimum_year_of_experience": "not specified",
+  "skills": [
+    "Basic understanding of machine learning concepts and algorithms",
+    "Proficiency in Python",
+    "Familiarity with libraries like NumPy, Pandas, and Scikit-learn",
+    "Basic knowledge of SQL for database interactions",
+    "Exposure to AI frameworks such as TensorFlow or PyTorch (preferred but not mandatory)",
+    "Strong problem-solving and analytical skills",
+    "Ability to work effectively in a team",
+    "Willingness to learn and adapt to new challenges"
+  ],
+  "responsibilities": [
+    "Collaborate with the AI team to design, develop, and implement machine learning models",
+    "Assist in data preprocessing, analysis, and feature engineering to support model development",
+    "Conduct research and stay updated on the latest advancements in AI and machine learning",
+    "Contribute to the optimization and deployment of AI models in production environments",
+    "Debug and troubleshoot AI-related issues to improve system performance",
+    "Document code, experiments, and findings to ensure reproducibility and knowledge sharing"
+  ]
+}
