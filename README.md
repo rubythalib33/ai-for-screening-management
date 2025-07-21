@@ -1,8 +1,3 @@
-Here's a sample `README.md` file for your project:
-
----
-
-````markdown
 # AI for Talent Acquisition
 
 This project is an AI-powered application for enhancing the recruitment process. It provides intelligent **CV Scoring and Ranking** and **Interview Scoring and Ranking** to help HR teams prioritize top candidates efficiently.
